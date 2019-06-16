@@ -11,3 +11,10 @@
 >This is a machine problem in partial fulfillment of the requirements for the course COE116L, Data Structures and Algorithm Laboratory, under Engr. Analyn Yumang, Mapúa University, Intramuros, Manila, Philippines.
 
 COE116L-C2-4Q1516 
+Core Programmers: 
+* [JAWOD, Danielle Nicole](https://github.com/dnojawod)
+* [De BELEN, Ralph Emerson]
+
+Documentation:
+* [DOMINGO, Maria Exequiella]
+* [VILLAR, Eden Veronica]
