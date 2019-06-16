@@ -13,7 +13,7 @@
 COE116L-C2-4Q1516 
 Core Programmers: 
 * [JAWOD, Danielle Nicole](https://github.com/dnojawod)
-* [De BELEN, Ralph Emerson]
+* [DE BELEN, Ralph Emerson]
 
 Documentation:
 * [DOMINGO, Maria Exequiella]
